@@ -10,5 +10,4 @@ I consolidated 5 of my user interviews into personas, empathy maps, scenarios, a
 
 ## Personas & Empathy Maps
 
-
-![Persona 1](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%2010.05.28%20AM.png)
+![Persona 1](https://github.com/anerichouhan/dh150-personas/blob/master/1.jpg)
