@@ -10,6 +10,8 @@ I consolidated 5 of my user interviews into personas, empathy maps, scenarios, a
 
 ## Let's dive into some storytelling!
 
+### Miguel
+
 ![Persona 1](https://github.com/anerichouhan/dh150-personas/blob/master/1.jpg)
 ![empathy 1](https://github.com/anerichouhan/dh150-personas/blob/master/2.jpg)
 
@@ -23,6 +25,8 @@ Miguel is a busy man whose weekdays are very hectic. He wakes up one Tuesday mor
 
 ![journey 1](https://github.com/anerichouhan/dh150-personas/blob/master/personas.jpg)
 
+### Samantha
+
 ![Persona 2](https://github.com/anerichouhan/dh150-personas/blob/master/3.jpg)
 ![empathy 2](https://github.com/anerichouhan/dh150-personas/blob/master/4.jpg)
 
@@ -33,5 +37,9 @@ Samantha is a creative researcher who loves deep diving into interesting tech to
 **Journey Map**
 ![journey 2](https://github.com/anerichouhan/dh150-personas/blob/master/personas%20(1).jpg)
 
+### Collin
+
 ![Persona 3](https://github.com/anerichouhan/dh150-personas/blob/master/5.jpg)
 ![empathy 3](https://github.com/anerichouhan/dh150-personas/blob/master/6.jpg)
+
+Collin loves learning about the coolest new gadgets and tech innovations. It's a Saturday evening and Collin is curious about what's going on in the world of fancy tech. He wants to make sure that he is the first to know about new technology and keep his eye out for potential project ideas and even product purchases. Collin saves his links to a litle note on his laptop so that he can revisit his favorite articles later. Today Collin really wants to read an article that he read two days ago again. He searches through his list of links but cannot find it. His list is really long and unorganized. This makes Collin feel frustrated and sad. Collin then learns about Techcrunch's article library. He goes to the techcrunch website, explores teh gadgets categories and saves the ones he enjoys. A few weeks later, when he wants to revist the content he read, Collin simply goes to his neatly organized library and quickly finds and enjoys the articles he wishes to read again. Collin feels happy and accomplished!
