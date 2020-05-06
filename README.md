@@ -31,6 +31,7 @@ Miguel is a busy man whose weekdays are very hectic. He wakes up one Tuesday mor
 Samantha is a creative researcher who loves deep diving into interesting tech topics and writing about them. She wants to learn new things and become a topic expert in different topics each month. For the month of May, she has decided to learn and write about Artificial Intelligence. To learn and write, she needs information about the fundamentals of AI, trends in the market, products and innovation, and ethics in the field. Samantha first Google searches for artificial intelligence. She is overwhelmed and frustrated by the content and wants an easy way to narrow her search and get more directed information. She ends up spending a lot time searching and get annoyed as a result. Finally, Samantha realizes that the Techcrunch has the most relevant information for her. She heads on over to the website and searches for articles on Artificial Intelligence. She is able to filter her search by length of the article, date, author etc. All the information is organized in systematic categories and Samantha is able to quickly find good research information. Samantha feels satisfied, productive and happy that she made progress in her research!
 
 **Journey Map**
+![journey 2](https://github.com/anerichouhan/dh150-personas/blob/master/personas%20(1).jpg)
 
 ![Persona 3](https://github.com/anerichouhan/dh150-personas/blob/master/5.jpg)
 ![empathy 3](https://github.com/anerichouhan/dh150-personas/blob/master/6.jpg)
