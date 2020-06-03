@@ -1,6 +1,6 @@
 # UX Storytelling
 
-Storytelling is an important part of User Experience as it fosters empathy and provides clarity on the jounrey a user goes through.
+Storytelling is an important part of User Experience as it fosters empathy and provides clarity on the journey a user goes through.
 I consolidated 5 of my user interviews into personas, empathy maps, scenarios, and journey maps to communicate the insights I gained through user research.
 
 ## Features
